@@ -1,1 +1,1 @@
-# Quantumult-X-rules
+纯自用，，备份神机规则。
