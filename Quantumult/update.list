@@ -1,0 +1,16 @@
+filter_addon
+
+# > sina
+DOMAIN-SUFFIX,vue.weibo.com,REJECT
+
+# > peopledaily
+DOMAIN,adstatic.peopleapp.com,REJECT
+
+
+
+
+
+rewrite_addon：
+
+# > 一鸣 - apiprd.inm.cc
+^https?:\/\/apiprd\.inm\.cc\/ url reject-200
